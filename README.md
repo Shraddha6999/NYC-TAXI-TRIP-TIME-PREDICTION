@@ -2,6 +2,9 @@
 
 The NYC Taxi Trip Time Prediction project is a machine learning regression model that aims to predict the duration of a taxi trip in New York City based on various input features. The goal of the project is to improve the efficiency and convenience of taxi services by providing more accurate estimates of trip duration for both passengers and drivers.
 
+![image](https://github.com/Shraddha6999/NYC-TAXI-TRIP-TIME-PREDICTION/assets/123643720/a0e2753d-88a0-4136-b870-f94bc71d859b)
+
+
 ## Project Overview
 
 The project utilizes historical data on taxi trips in NYC, including information on pickup and dropoff locations, timestamps, and trip distances. The data is preprocessed to handle missing values and convert categorical variables into numerical values. Feature engineering techniques are applied to extract additional information from the data, such as the day of the week, time of day, and distances between locations.
