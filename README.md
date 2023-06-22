@@ -32,4 +32,3 @@ The NYC Taxi Trip Time Prediction project successfully develops a machine learni
 
 The project's future development could involve refining the model's accuracy and exploring advanced techniques in feature engineering and model selection. Additionally, incorporating real-time data and integrating the model into a user-friendly application or API would enable seamless access to accurate trip duration predictions.
 
-![Taxi in NYC]((https://www.cityguideny.com/columnpic/ndnyc-taxi1.jpg)/taxi-nyc.jpg)
